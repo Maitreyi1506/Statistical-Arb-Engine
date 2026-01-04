@@ -73,6 +73,8 @@ Based on intuition, there is 1 triplet:
 Half-life obtained from Johannsen test: 22.43 days. 
 
 The cumulative PnL using this triplet looks like: 
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/08bd76a6-4a69-4010-b3e1-7a265c1cd694" />
+
 
 ---
 
